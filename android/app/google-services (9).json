@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546581825435",
+    "project_id": "ourtaxy-d4511",
+    "storage_bucket": "ourtaxy-d4511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546581825435:android:9b3522991d1bb04812833e",
+        "android_client_info": {
+          "package_name": "com.example.our_taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOOf5hlAk_iDen3y6xGAiyxYwvSw2uS4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
